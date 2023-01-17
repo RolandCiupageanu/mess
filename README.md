@@ -1,7 +1,6 @@
 # Project name: Mess
 ### A simple desktop program that manages temperature measurements in excel format.
 
-### Video Demo:  <https://www.youtube.com/watch?v=xIuoZE-CCPc>
 ### 1. Project description and motivation:
 
 
